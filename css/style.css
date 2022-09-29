@@ -9192,9 +9192,13 @@ textarea.form-control-lg {
   position: relative; }
 
 .logo {
-  font-size: 24px;
+  font-size: 20px;
+  padding-top: 3.5px;
   color: rgba(255, 255, 255, 0.8) !important;
-  font-weight: 500; }
+  font-weight: 500;
+  width: auto;
+  height: auto;
+}
   .logo:hover {
     color: #fff !important; }
 
